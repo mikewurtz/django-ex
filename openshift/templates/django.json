@@ -237,7 +237,7 @@
       "displayName": "Git Repository URL",
       "required": true,
       "description": "The URL of the repository with your application source code.",
-      "value": "https://github.com/mikewurtz/django-ex"
+      "value": "https://github.com/mikewurtz/django-ex.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
